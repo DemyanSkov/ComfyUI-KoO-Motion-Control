@@ -1,0 +1,115 @@
+{
+  "checks": {
+    "real_ComfyUI_loader_import": {
+      "passed": true,
+      "detail": [
+        "KoOH3InjectVideoLatent",
+        "KoOMiniMaxH3OutputTrimT8",
+        "KoOUltimateControls",
+        "KoOUltimateExport",
+        "KoOUltimateLoRA",
+        "KoOUltimateSparse",
+        "KoOUltimateT8Stitch",
+        "KoOUltimateTiming"
+      ]
+    },
+    "all_8_classes_registered": {
+      "passed": true,
+      "detail": true
+    },
+    "real_backend_object_info_schemas": {
+      "passed": true,
+      "detail": {
+        "classes": 8,
+        "conditional_video_lazy": true
+      }
+    },
+    "controls_timing_lazy_export": {
+      "passed": true,
+      "detail": {
+        "saved_control_flags": [
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false
+        ],
+        "duration_frame_count": 175,
+        "disabled_export_not_requested": true
+      }
+    },
+    "local_spatial_preflight_guard": {
+      "passed": true,
+      "detail": "Expected spatial mismatch rejected before attempting VAE encode"
+    },
+    "real_trim_frames_and_PCM_cpu": {
+      "passed": true,
+      "detail": {
+        "device": "cpu",
+        "frames": 12,
+        "pcm_samples": 500,
+        "exact_slicing": true
+      }
+    },
+    "minimal_GPU_smoke_trim_only": {
+      "passed": true,
+      "detail": {
+        "device": "cuda",
+        "frames": 12,
+        "pcm_samples": 500,
+        "exact_slicing": true
+      }
+    },
+    "source_AST_equivalence_and_original_source_hashes": {
+      "passed": true,
+      "detail": {
+        "unchanged_source_symbols": [
+          "UltimateControls",
+          "UltimateTiming",
+          "UltimateLoRA",
+          "UltimateExport",
+          "UltimateSparse",
+          "UltimateT8Stitch",
+          "H3InjectVideoLatent",
+          "MiniMaxH3OutputTrimT8",
+          "validate_audio",
+          "trim_av_output"
+        ]
+      }
+    },
+    "workflow_graph_and_exact_behavior_preservation": {
+      "passed": true,
+      "detail": {
+        "original_nodes": 123,
+        "release_nodes": 124,
+        "links_preserved": 243,
+        "note_has_no_links": true,
+        "no_overlap": true
+      }
+    },
+    "distribution_content_scan": {
+      "passed": true,
+      "detail": {
+        "files": 24,
+        "absolute_paths_credentials_weights_or_media_found": false
+      }
+    },
+    "original_workflow_sha256": "5aaec374dbb3141c32b99c030ccab986eb66c29dacec7392e883b9eecaa8a205"
+  },
+  "ui": {
+    "all_release_classes_resolved": true,
+    "node_count": 124,
+    "KoO_backend_classes": 8,
+    "detector_model_registration_resolved": true,
+    "external_frontend_scripts_HEAD_200": 115,
+    "frontend_workflow_opened": true,
+    "markdown_note_3_tables_rendered": true,
+    "missing_personal_input_media_expected": true,
+    "generation_executed": false
+  }
+}

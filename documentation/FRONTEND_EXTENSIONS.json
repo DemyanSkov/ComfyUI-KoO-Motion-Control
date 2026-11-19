@@ -1,0 +1,462 @@
+[
+  {
+    "extension": "/extensions/core/agentPanel.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/editAttention.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/groupNode.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/slotDefaultTypes.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/textPreviewWidgets.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/touchCanvasAccess.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/widgetInputs.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/widgetValuePropagation.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraAngle/cameraAngleMath.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraAngle/CameraAngleViewport.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraAngle/orbitGizmos.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraAngle/SubjectBox.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraAngle/types.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraAngle/widgetBridge.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/CameraInfoOverlay.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/CameraInfoViewport.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/cameraTransform.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/lookThroughDragMath.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/subjectCameraPreview.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/types.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/widgetBridge.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/handles/CameraHandle.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/handles/handlePicking.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/handles/orbitDragMath.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/handles/OrbitHandles.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/handles/pointerInteraction.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/handles/rollDragMath.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/handles/RollHandle.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/cameraInfo/handles/TargetHandle.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/lightInfo/LightInfoOverlay.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/lightInfo/LightInfoViewport.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/lightInfo/lightsValue.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/lightInfo/lightTransform.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/lightInfo/types.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/AnimationManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/cameraFromMatrices.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/CameraManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/constants.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/ControlsManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/createLoad3d.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/createViewport3d.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/EventManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/exportMenuHelper.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/GizmoManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/HDRIManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/LightingManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/load3dContextMenuGuard.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/load3dInstances.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/load3dRenderLoop.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/load3dSerialize.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/load3dViewport.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/LoaderManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/MeshModelAdapter.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/model3dOutput.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/ModelAdapter.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/ModelExporter.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/nodeTypes.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/PointCloudModelAdapter.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/RecordingManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/SceneManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/SceneModelManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/SplatModelAdapter.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/ViewHelperManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/Viewport3d.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/loader/FastPLYLoader.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/quadWireframe/adoptClonedModel.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/quadWireframe/faceSizesRegistry.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/load3d/quadWireframe/QuadWireframeManager.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/core/maskeditor/types.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/appearance.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/canvas_background.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/contextmenu.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/context_windows_visualizer.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/fast_preview.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/fast_preview_batch.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/fillconnect.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/fix_node.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/hdr_preview.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/help_popup.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/ideogram4_prompt_builder.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/image_transform.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/jsnodes.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/nodeswap.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/node_insert.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/performance.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/play_sound.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/screencap_stream.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/setgetnodes.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/shake_to_disconnect.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/utility.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/editors/editor_base.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/editors/interpolation.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/editors/point_editor_canvas.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/editors/spline_editor_canvas.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-KJNodes/js/preview_override/preview_override.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/comfyui-videohelpersuite/js/VHS.core.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/comfyui-videohelpersuite/js/videoinfo.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/ComfyUI-H3-FaceRefine/h3_face_select.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/director.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/dlss_runtime_migration.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/freevideo_phase.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/legacy_m0_widget_slots.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/legacy_markdown_note_widgets.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/legacy_speech_studio_widgets.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/legacy_vhs_h264_widgets.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/long_video_background.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/meridian_editor.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/model_recipe_card.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/readable_audio.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/skin_finish_preview.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/studio_timeline_v2.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/taeh3_preview.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/task_type_labels.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/topaz_parameter_guide.js",
+    "status": 200
+  },
+  {
+    "extension": "/extensions/minimax-h3-audio-T8/visual_marker_editor.js",
+    "status": 200
+  }
+]

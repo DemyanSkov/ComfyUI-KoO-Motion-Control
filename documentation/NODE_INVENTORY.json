@@ -1,0 +1,482 @@
+[
+  {
+    "class_id": "BasicGuider",
+    "node_ids": "902, 917, 1304",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_custom_sampler.py",
+    "live_reported_module": "comfy_extras.nodes_custom_sampler",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "BasicScheduler",
+    "node_ids": "1117, 1305",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_custom_sampler.py",
+    "live_reported_module": "comfy_extras.nodes_custom_sampler",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "CLIPLoader",
+    "node_ids": "633",
+    "category": "Native ComfyUI",
+    "source": "nodes.py",
+    "live_reported_module": "nodes",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "ComfySwitchNode",
+    "node_ids": "1007, 1130, 1131, 1105, 1106, 1107, 1200, 1201, 1400, 1401, 2013",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_logic.py",
+    "live_reported_module": "comfy_extras.nodes_logic",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "ConditioningZeroOut",
+    "node_ids": "1116",
+    "category": "Native ComfyUI",
+    "source": "nodes.py",
+    "live_reported_module": "nodes",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "CreateVideo",
+    "node_ids": "1601, 1603, 1605, 1607, 1612, 1621, 1623, 1625, 1627, 1629",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_video.py",
+    "live_reported_module": "comfy_extras.nodes_video",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "GetImageSizeAndCount",
+    "node_ids": "3, 1202",
+    "category": "Third-party KJNodes",
+    "source": "ComfyUI-KJNodes/nodes/image_nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "External; PointsEditor also needs KJNodes web/js/editors and shared canvas scripts"
+  },
+  {
+    "class_id": "GrowMask",
+    "node_ids": "33",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_mask.py",
+    "live_reported_module": "comfy_extras.nodes_mask",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "H3FaceStitch",
+    "node_ids": "1310",
+    "category": "Third-party MIT",
+    "source": "ComfyUI-H3-FaceRefine/nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "Class AST matches upstream; external"
+  },
+  {
+    "class_id": "H3FaceTrackCrop",
+    "node_ids": "1300",
+    "category": "Third-party MIT",
+    "source": "ComfyUI-H3-FaceRefine/nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "Class AST matches upstream; external"
+  },
+  {
+    "class_id": "H3InjectVideoLatent",
+    "node_ids": "1302",
+    "category": "Locally differing MIT dependency",
+    "source": "ComfyUI-H3-FaceRefine/nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "Included exact local class; namespaced registration prevents upstream overwrite"
+  },
+  {
+    "class_id": "H3PerFrameDenoise",
+    "node_ids": "1303",
+    "category": "Third-party MIT",
+    "source": "ComfyUI-H3-FaceRefine/nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "Class AST matches upstream; external"
+  },
+  {
+    "class_id": "ImageBlur",
+    "node_ids": "910, 912",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_post_processing.py",
+    "live_reported_module": "comfy_extras.nodes_post_processing",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "ImageCompositeMasked",
+    "node_ids": "21",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_mask.py",
+    "live_reported_module": "comfy_extras.nodes_mask",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "ImageScaleToTotalPixels",
+    "node_ids": "2",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_post_processing.py",
+    "live_reported_module": "comfy_extras.nodes_post_processing",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "ImageStitch",
+    "node_ids": "1610",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_images.py",
+    "live_reported_module": "comfy_extras.nodes_images",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "ImageToMask",
+    "node_ids": "911",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_mask.py",
+    "live_reported_module": "comfy_extras.nodes_mask",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "KSamplerSelect",
+    "node_ids": "901, 1118, 1306",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_custom_sampler.py",
+    "live_reported_module": "comfy_extras.nodes_custom_sampler",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "KoOUltimateControls",
+    "node_ids": "1000",
+    "category": "Original KoO",
+    "source": "koo-h3-ultimate/__init__.py",
+    "live_reported_module": "custom_nodes.koo-h3-ultimate",
+    "reason": "Included in koo_nodes.py; only six classes used by graph"
+  },
+  {
+    "class_id": "KoOUltimateExport",
+    "node_ids": "1600, 1602, 1604, 1606, 1611, 1620, 1622, 1624, 1626, 1628",
+    "category": "Original KoO",
+    "source": "koo-h3-ultimate/__init__.py",
+    "live_reported_module": "custom_nodes.koo-h3-ultimate",
+    "reason": "Included in koo_nodes.py; only six classes used by graph"
+  },
+  {
+    "class_id": "KoOUltimateLoRA",
+    "node_ids": "1110, 1111, 1112, 1113",
+    "category": "Original KoO",
+    "source": "koo-h3-ultimate/__init__.py",
+    "live_reported_module": "custom_nodes.koo-h3-ultimate",
+    "reason": "Included in koo_nodes.py; only six classes used by graph"
+  },
+  {
+    "class_id": "KoOUltimateSparse",
+    "node_ids": "1114",
+    "category": "Original KoO",
+    "source": "koo-h3-ultimate/__init__.py",
+    "live_reported_module": "custom_nodes.koo-h3-ultimate",
+    "reason": "Included in koo_nodes.py; only six classes used by graph"
+  },
+  {
+    "class_id": "KoOUltimateT8Stitch",
+    "node_ids": "921",
+    "category": "Original KoO",
+    "source": "koo-h3-ultimate/__init__.py",
+    "live_reported_module": "custom_nodes.koo-h3-ultimate",
+    "reason": "Included in koo_nodes.py; only six classes used by graph"
+  },
+  {
+    "class_id": "KoOUltimateTiming",
+    "node_ids": "1001",
+    "category": "Original KoO",
+    "source": "koo-h3-ultimate/__init__.py",
+    "live_reported_module": "custom_nodes.koo-h3-ultimate",
+    "reason": "Included in koo_nodes.py; only six classes used by graph"
+  },
+  {
+    "class_id": "LTXVAudioVAEEncode",
+    "node_ids": "811",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_lt_audio.py",
+    "live_reported_module": "comfy_extras.nodes_lt_audio",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "LTXVConcatAVLatent",
+    "node_ids": "815",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_lt.py",
+    "live_reported_module": "comfy_extras.nodes_lt",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "LTXVSeparateAVLatent",
+    "node_ids": "814, 819",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_lt.py",
+    "live_reported_module": "comfy_extras.nodes_lt",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "LoadImage",
+    "node_ids": "1002, 1003",
+    "category": "Native ComfyUI",
+    "source": "nodes.py",
+    "live_reported_module": "nodes",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "LoadVideoDepthAnythingModel",
+    "node_ids": "905",
+    "category": "Third-party VDA",
+    "source": "ComfyUI-Video-Depth-Anything/node.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "External; requires video_depth_anything/ architecture and utility modules"
+  },
+  {
+    "class_id": "LoraLoaderModelOnly",
+    "node_ids": "900",
+    "category": "Native ComfyUI",
+    "source": "nodes.py",
+    "live_reported_module": "nodes",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "ManualSigmas",
+    "node_ids": "2012",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_custom_sampler.py",
+    "live_reported_module": "comfy_extras.nodes_custom_sampler",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "MaskToImage",
+    "node_ids": "909",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_mask.py",
+    "live_reported_module": "comfy_extras.nodes_mask",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "MiniMaxH3AVDecodeT8",
+    "node_ids": "920, 1120",
+    "category": "Third-party T8",
+    "source": "minimax-h3-audio-T8/h3_t8/nodes.py",
+    "live_reported_module": "custom_nodes.minimax-h3-audio-T8",
+    "reason": "External dependency; excluded from ZIP"
+  },
+  {
+    "class_id": "MiniMaxH3AudioConditioningT8",
+    "node_ids": "925",
+    "category": "Third-party T8",
+    "source": "minimax-h3-audio-T8/h3_t8/nodes.py",
+    "live_reported_module": "custom_nodes.minimax-h3-audio-T8",
+    "reason": "External dependency; excluded from ZIP"
+  },
+  {
+    "class_id": "MiniMaxH3FaceRefineConditioningT8Advanced",
+    "node_ids": "915",
+    "category": "Third-party T8",
+    "source": "minimax-h3-audio-T8/h3_t8/nodes_face_refine_advanced.py",
+    "live_reported_module": "custom_nodes.minimax-h3-audio-T8",
+    "reason": "External dependency; excluded from ZIP"
+  },
+  {
+    "class_id": "MiniMaxH3FaceRefinePlanT8Advanced",
+    "node_ids": "913",
+    "category": "Third-party T8",
+    "source": "minimax-h3-audio-T8/h3_t8/nodes_face_refine_advanced.py",
+    "live_reported_module": "custom_nodes.minimax-h3-audio-T8",
+    "reason": "External dependency; excluded from ZIP"
+  },
+  {
+    "class_id": "MiniMaxH3FaceRefineSamplerT8Advanced",
+    "node_ids": "916",
+    "category": "Third-party T8",
+    "source": "minimax-h3-audio-T8/h3_t8/nodes_face_refine_advanced.py",
+    "live_reported_module": "custom_nodes.minimax-h3-audio-T8",
+    "reason": "External dependency; excluded from ZIP"
+  },
+  {
+    "class_id": "MiniMaxH3ImageToVideo",
+    "node_ids": "1103",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_minimax_h3.py",
+    "live_reported_module": "comfy_extras.nodes_minimax_h3",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "MiniMaxH3OutputTrimT8",
+    "node_ids": "922, 807",
+    "category": "Locally differing GPL dependency",
+    "source": "minimax-h3-audio-T8/h3_t8/nodes.py",
+    "live_reported_module": "custom_nodes.minimax-h3-audio-T8",
+    "reason": "Included exact local class plus trim_av_output and validate_audio; schema ID namespaced"
+  },
+  {
+    "class_id": "MiniMaxH3ReferenceToVideo",
+    "node_ids": "805, 1104, 1108, 1301",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_minimax_h3.py",
+    "live_reported_module": "comfy_extras.nodes_minimax_h3",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "MiniMaxH3SigmaShift",
+    "node_ids": "1115, 2011",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_minimax_h3.py",
+    "live_reported_module": "comfy_extras.nodes_minimax_h3",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "Note",
+    "node_ids": "2001, 2003, 2004, 2005, 2006, 2007, 2009, 2010",
+    "category": "Native frontend note",
+    "source": "ComfyUI frontend Note",
+    "live_reported_module": "frontend built-in",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "PointsEditor",
+    "node_ids": "31",
+    "category": "Third-party KJNodes",
+    "source": "ComfyUI-KJNodes/nodes/curve_nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "External; PointsEditor also needs KJNodes web/js/editors and shared canvas scripts"
+  },
+  {
+    "class_id": "PrimitiveBoolean",
+    "node_ids": "1004",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_primitive.py",
+    "live_reported_module": "comfy_extras.nodes_primitive",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "PrimitiveInt",
+    "node_ids": "1008",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_primitive.py",
+    "live_reported_module": "comfy_extras.nodes_primitive",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "PrimitiveStringMultiline",
+    "node_ids": "1005, 1006",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_primitive.py",
+    "live_reported_module": "comfy_extras.nodes_primitive",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "RandomNoise",
+    "node_ids": "903, 918, 1307",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_custom_sampler.py",
+    "live_reported_module": "comfy_extras.nodes_custom_sampler",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "ResolutionSelector",
+    "node_ids": "1102",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_resolution.py",
+    "live_reported_module": "comfy_extras.nodes_resolution",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "SamplerCustomAdvanced",
+    "node_ids": "904, 919, 1308",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_custom_sampler.py",
+    "live_reported_module": "comfy_extras.nodes_custom_sampler",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "SeCModelLoader",
+    "node_ids": "30",
+    "category": "Third-party SeC",
+    "source": "Comfyui-SecNodes/nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "External; requires bundled inference/, model_config/, sec/ helpers from upstream"
+  },
+  {
+    "class_id": "SeCVideoSegmentation",
+    "node_ids": "32",
+    "category": "Third-party SeC",
+    "source": "Comfyui-SecNodes/nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "External; requires bundled inference/, model_config/, sec/ helpers from upstream"
+  },
+  {
+    "class_id": "SelfLiftH3Sampler",
+    "node_ids": "1119",
+    "category": "Third-party SelfLift",
+    "source": "comfyui-SelfLift/nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "External even though branch unselected; helpers h3_upscaler.py, h3_tiling.py, selflift.py, diagnostics.py"
+  },
+  {
+    "class_id": "SetLatentNoiseMask",
+    "node_ids": "813",
+    "category": "Native ComfyUI",
+    "source": "nodes.py",
+    "live_reported_module": "nodes",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "SolidMask",
+    "node_ids": "812",
+    "category": "Native ComfyUI",
+    "source": "comfy_extras/nodes_mask.py",
+    "live_reported_module": "comfy_extras.nodes_mask",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "UNETLoader",
+    "node_ids": "632, 914, 1100, 1101",
+    "category": "Native ComfyUI",
+    "source": "nodes.py",
+    "live_reported_module": "nodes",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "VAEDecode",
+    "node_ids": "759, 1309",
+    "category": "Native ComfyUI",
+    "source": "nodes.py",
+    "live_reported_module": "nodes",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "VAELoader",
+    "node_ids": "616, 617",
+    "category": "Native ComfyUI",
+    "source": "nodes.py",
+    "live_reported_module": "nodes",
+    "reason": "Excluded; supplied by compatible ComfyUI"
+  },
+  {
+    "class_id": "VHS_LoadVideo",
+    "node_ids": "10",
+    "category": "Third-party VideoHelperSuite",
+    "source": "comfyui-videohelpersuite/videohelpersuite/load_video_nodes.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "External; requires VHS frontend and ffmpeg support"
+  },
+  {
+    "class_id": "VideoDepthAnythingOutput",
+    "node_ids": "808",
+    "category": "Third-party VDA",
+    "source": "ComfyUI-Video-Depth-Anything/node.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "External; requires video_depth_anything/ architecture and utility modules"
+  },
+  {
+    "class_id": "VideoDepthAnythingProcess",
+    "node_ids": "906",
+    "category": "Third-party VDA",
+    "source": "ComfyUI-Video-Depth-Anything/node.py",
+    "live_reported_module": "custom_nodes.comfyui_fearnworksnodes",
+    "reason": "External; requires video_depth_anything/ architecture and utility modules"
+  }
+]

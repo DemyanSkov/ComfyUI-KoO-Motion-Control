@@ -1,0 +1,4 @@
+# No additional pip packages for the bundled nodes.
+# torch and the comfy_api, nodes, folder_paths modules are supplied by ComfyUI.
+# Install the external custom-node requirements listed in documentation/INSTALLATION.md.
+# Do not pip-install similarly named packages for ComfyUI's internal modules.

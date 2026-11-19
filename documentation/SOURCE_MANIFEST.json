@@ -1,0 +1,72 @@
+[
+  {
+    "source": "koo-h3-ultimate/__init__.py",
+    "symbol": "UltimateControls",
+    "line": 8,
+    "source_sha256": "c9ab9cad2825d075f5a905f6082994fd8fa08a6b8b247f2c10546d5a83a5ee8d",
+    "symbol_ast_sha256": "4fd31cf3c3aef49d01c5d69693e3cac41607623e0b51cbf7320f3d948cf46874"
+  },
+  {
+    "source": "koo-h3-ultimate/__init__.py",
+    "symbol": "UltimateTiming",
+    "line": 34,
+    "source_sha256": "c9ab9cad2825d075f5a905f6082994fd8fa08a6b8b247f2c10546d5a83a5ee8d",
+    "symbol_ast_sha256": "b06aada6d6585de9e5502160b83fd56683d97c2583ac41fc91fea4b57c5098a2"
+  },
+  {
+    "source": "koo-h3-ultimate/__init__.py",
+    "symbol": "UltimateLoRA",
+    "line": 51,
+    "source_sha256": "c9ab9cad2825d075f5a905f6082994fd8fa08a6b8b247f2c10546d5a83a5ee8d",
+    "symbol_ast_sha256": "af74ff1589437339df0c9fba6768289aa606b099df47fa3d58c1701a01fe0909"
+  },
+  {
+    "source": "koo-h3-ultimate/__init__.py",
+    "symbol": "UltimateExport",
+    "line": 70,
+    "source_sha256": "c9ab9cad2825d075f5a905f6082994fd8fa08a6b8b247f2c10546d5a83a5ee8d",
+    "symbol_ast_sha256": "68ac5b5c4cb7c53cbe4e77f82c09c93fb32c19144a72e5068825d8b73002cb70"
+  },
+  {
+    "source": "koo-h3-ultimate/__init__.py",
+    "symbol": "UltimateSparse",
+    "line": 102,
+    "source_sha256": "c9ab9cad2825d075f5a905f6082994fd8fa08a6b8b247f2c10546d5a83a5ee8d",
+    "symbol_ast_sha256": "08292af0bb08275c216a012ae0e3312f53704c40c9e741492db5c3f773c035fe"
+  },
+  {
+    "source": "koo-h3-ultimate/__init__.py",
+    "symbol": "UltimateT8Stitch",
+    "line": 119,
+    "source_sha256": "c9ab9cad2825d075f5a905f6082994fd8fa08a6b8b247f2c10546d5a83a5ee8d",
+    "symbol_ast_sha256": "1bc2c274c90a1e2e4866cc095d0283280344179b2a3685689eed663de1617352"
+  },
+  {
+    "source": "ComfyUI-H3-FaceRefine/nodes.py",
+    "symbol": "H3InjectVideoLatent",
+    "line": 2353,
+    "source_sha256": "05919428bfd7effadd086b0fbd0ecd7953b408f7d415f27e20e130c288089d66",
+    "symbol_ast_sha256": "048d26e773784e841da8f85659d909e4320c329065f47de5694e850da61d4b52"
+  },
+  {
+    "source": "minimax-h3-audio-T8/h3_t8/nodes.py",
+    "symbol": "MiniMaxH3OutputTrimT8",
+    "line": 507,
+    "source_sha256": "40a6f9fdce0def5fbf3b0f8e2b72d8ee271a836568bae0d8204571aa2acfd050",
+    "symbol_ast_sha256": "9d6b285d44aeaec354e11994423e6bc91ebbe86d2819c675c09b93f99b8cb463"
+  },
+  {
+    "source": "minimax-h3-audio-T8/h3_t8/core.py",
+    "symbol": "validate_audio",
+    "line": 132,
+    "source_sha256": "011c38179b2fce1ffb753753fccc6cd33405e0b3a1b66fdb126fc43e31a9aa64",
+    "symbol_ast_sha256": "4de72f92c1dde6102545b33bcc7d2f76d812dc3427bae264901bf7d6437a9fe6"
+  },
+  {
+    "source": "minimax-h3-audio-T8/h3_t8/audio_ops.py",
+    "symbol": "trim_av_output",
+    "line": 107,
+    "source_sha256": "3ab3513b2b40313cae973a0bd1775ba70f6459020f5be7d24fc7cda60b99557a",
+    "symbol_ast_sha256": "9adbd1521018dc4dd7e0df9408017f632db1defad33546a6a288dfa5ec0bf641"
+  }
+]

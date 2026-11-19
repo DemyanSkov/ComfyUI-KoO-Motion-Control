@@ -1,0 +1,94 @@
+{
+  "self_nodes": {
+    "url": "https://raw.githubusercontent.com/facok/comfyui-SelfLift/master/nodes.py",
+    "bytes": 31823,
+    "normalized_exact": true,
+    "changed_symbols": []
+  },
+  "sec_nodes": {
+    "url": "https://raw.githubusercontent.com/9nate-drake/Comfyui-SecNodes/main/nodes.py",
+    "bytes": 63297,
+    "normalized_exact": true,
+    "changed_symbols": []
+  },
+  "depth_nodes": {
+    "url": "https://raw.githubusercontent.com/yuvraj108c/ComfyUI-Video-Depth-Anything/main/node.py",
+    "bytes": 7477,
+    "normalized_exact": true,
+    "changed_symbols": []
+  },
+  "kj_curve": {
+    "url": "https://raw.githubusercontent.com/kijai/ComfyUI-KJNodes/main/nodes/curve_nodes.py",
+    "bytes": 70471,
+    "normalized_exact": true,
+    "changed_symbols": []
+  },
+  "kj_image": {
+    "url": "https://raw.githubusercontent.com/kijai/ComfyUI-KJNodes/main/nodes/image_nodes.py",
+    "bytes": 237213,
+    "normalized_exact": false,
+    "changed_symbols": [
+      "ImageResizeKJv2",
+      "SaveImageKJ",
+      "FastPreviewBatch"
+    ]
+  },
+  "vhs_load": {
+    "url": "https://raw.githubusercontent.com/Kosinkadink/ComfyUI-VideoHelperSuite/main/videohelpersuite/load_video_nodes.py",
+    "bytes": 29104,
+    "normalized_exact": false,
+    "changed_symbols": []
+  },
+  "upscale_tree": {
+    "url": "https://huggingface.co/api/models/LBH-123-AI/Minimax_h3_latent_Upscaler/tree/main?recursive=true&limit=1000",
+    "bytes": 4592,
+    "files": [
+      ".gitattributes",
+      "README.md",
+      "README_zh.md",
+      "config.json",
+      "examples/3D_Conv_v1_vs_2D_Conv_v1.html",
+      "examples/3D_Conv_v1_vs_2D_Conv_v1.png",
+      "examples/Minimax_h3_latent_Upscaler_001.mp4",
+      "examples/Minimax_h3_latent_Upscaler_002.jpg",
+      "minimax_h3_latent_upscaler_2d_conv_v1/config.json",
+      "minimax_h3_latent_upscaler_2d_conv_v1/minimax_h3_latent_upscaler_2d_conv_v1_bf16.safetensors",
+      "minimax_h3_latent_upscaler_2d_conv_v1/minimax_h3_latent_upscaler_2d_conv_v1_fp16.safetensors",
+      "minimax_h3_latent_upscaler_2d_conv_v1/minimax_h3_latent_upscaler_2d_conv_v1_fp32.pth",
+      "minimax_h3_latent_upscaler_3d_conv_v1/config.json",
+      "minimax_h3_latent_upscaler_3d_conv_v1/minimax_h3_latent_upscaler_3d_conv_v1_bf16.safetensors",
+      "minimax_h3_latent_upscaler_3d_conv_v1/minimax_h3_latent_upscaler_3d_conv_v1_fp16.safetensors",
+      "minimax_h3_latent_upscaler_3d_conv_v1/minimax_h3_latent_upscaler_3d_conv_v1_fp32.pth",
+      "workflow_templates/minimax_h3_i2v_Latent Upscaler example workflow2.json",
+      "workflow_templates/minimax_h3_r2v_Latent Upscaler example workflow3.json"
+    ]
+  },
+  "facial_tree": {
+    "url": "https://huggingface.co/api/models/prithivMLmods/MiniMax-H3-Facial-Realism-CloseUp/tree/main?recursive=true&limit=1000",
+    "bytes": 639,
+    "files": [
+      ".gitattributes",
+      "README.md",
+      "minimax-h3-facial-realism-closeup-cp2000.safetensors",
+      "sample_prompt.json"
+    ]
+  },
+  "antiburn_tree": {
+    "url": "https://huggingface.co/api/models/Imagineer13/H3-Anti-Burn-LoRA/tree/main?recursive=true&limit=1000",
+    "bytes": 1717,
+    "files": [
+      ".gitattributes",
+      "LICENSE",
+      "NOTICE",
+      "README.md",
+      "h3_antiburn_universal_v1.safetensors",
+      "images/larry_kitchen.jpg",
+      "images/lightx2v_kitchen.jpg",
+      "images/unseen_model_park.jpg"
+    ]
+  },
+  "civitai_motion": {
+    "url": "https://civitai.com/api/v1/models/2734359",
+    "bytes": 11182
+  }
+}

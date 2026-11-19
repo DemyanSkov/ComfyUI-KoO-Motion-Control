@@ -1,0 +1,37 @@
+[
+  {
+    "removed": "extra.KoO_DLSS_repair",
+    "reason": "historical local audit/cache metadata; not execution configuration"
+  },
+  {
+    "removed": "extra.KoO_H3_Ultimate",
+    "reason": "historical local audit/cache metadata; not execution configuration"
+  },
+  {
+    "removed": "extra.anomalous_hashes",
+    "reason": "historical local audit/cache metadata; not execution configuration"
+  },
+  {
+    "node_id": 10,
+    "removed": "widgets_values.videopreview (media preview cache)"
+  },
+  {
+    "node_id": 31,
+    "removed": "properties.imgData (temp preview reference)"
+  },
+  {
+    "node_id": 922,
+    "old_type": "MiniMaxH3OutputTrimT8",
+    "new_type": "KoOMiniMaxH3OutputTrimT8"
+  },
+  {
+    "node_id": 807,
+    "old_type": "MiniMaxH3OutputTrimT8",
+    "new_type": "KoOMiniMaxH3OutputTrimT8"
+  },
+  {
+    "node_id": 1302,
+    "old_type": "H3InjectVideoLatent",
+    "new_type": "KoOH3InjectVideoLatent"
+  }
+]
